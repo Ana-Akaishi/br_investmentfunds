@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Ana-Akaishi/data-science-projects/blob/main/Brazilian%20Investment%20Funds/images/br_invest_fund_cover.png)
+![Alt text](https://github.com/Ana-Akaishi/br_investmentfunds/blob/main/images/br_invest_fund_cover.png)
 
 # Brazilian Investment Funds Overview
 
@@ -17,10 +17,10 @@ Now that we know what is an investment fund, and how is its structure, let's be 
 - How funds were affected during the pandemic?
 - What can I expect for the next months?
 
-To answer those questions, I'm making this project using open data from financial institutions and regulators to analyze funds marketl. At the end of it, I'll test some machine learning models to see if I can predect funds behavior for future months. The project follows this pipeline:
+To answer those questions, I'm making this project using open data from financial institutions and regulatoVrs to analyze funds marketl. At the end of it, I'll test some machine learning models to see if I can predect funds behavior for future months. The project follows this pipeline:
 
-![Alt text](https://github.com/Ana-Akaishi/data-science-projects/blob/main/Brazilian%20Investment%20Funds/images/pipeline_image.png)
+![Alt text](https://github.com/Ana-Akaishi/br_investmentfunds/blob/main/images/pipeline_image.png)
 
 Database Scheema
 
-![Alt text](https://github.com/Ana-Akaishi/data-science-projects/blob/main/Brazilian%20Investment%20Funds/images/BFF_DB_scheema.png)
+![Alt text](https://github.com/Ana-Akaishi/br_investmentfunds/blob/main/images/BFF_DB_scheema.png)
